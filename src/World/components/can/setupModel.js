@@ -1,5 +1,3 @@
-import { AnimationMixer } from "../../../../node_modules/three/build/three.module.js";
-
 function setupModel(data) {
   const model = data.scene.children[0];
 
